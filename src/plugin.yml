@@ -1,0 +1,11 @@
+name: EnderPearlRide
+main: tk.ThePerkyTurkey.enderpearlride.EnderPearlRide
+version: 1.0
+description: Allows you to ride an enderpearl
+author: ThePerkyTurkey
+
+commands:
+    enderpearlride:
+        usage: /epr
+        description: Allows you to ride an enderpearl
+        aliases: [epr]
